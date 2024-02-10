@@ -1,0 +1,20 @@
+@media only screen and (min-width: 320px) {
+    .nav-logo {
+        width: 350px;
+        height: auto;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .nav-logo {
+        width: 450px;
+        height: auto;
+    }
+}
+
+.custom-card {
+    /* border-radius: 9px; */
+    /* background: #ffffff; */
+    /* box-shadow: 5px 5px 11px #dedede, */
+        /* -5px -5px 11px #ffffff; */
+}
