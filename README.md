@@ -21,7 +21,8 @@ Check out some snapshots of our project:
 
 Here's the logo of our project, designed with love in Figma:
 
-![Project Logo]([link_to_logo_image](https://github.com/anupamthackar/Fashion-Carpat-Ecommerce-Website/assets/70510089/afdc43ce-8123-4905-b92c-304ad6289ae1))
+![image](https://github.com/anupamthackar/Fashion-Carpat-Ecommerce-Website/assets/70510089/8faac9e6-a431-47ad-ae64-ec9accdb4e51)
+
 
 ### Demo
 
@@ -72,4 +73,4 @@ We welcome contributions! If you have any ideas or suggestions, please raise an 
 
 ### Feedback
 
-We value your feedback! Feel free to reach out to us [here](mailto:example@example.com) with any comments or suggestions.
+We value your feedback! Feel free to reach out to us [here](mailto:anupamthackar0786@gmail.com) with any comments or suggestions.
